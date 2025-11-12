@@ -1,4 +1,4 @@
-// app/index.js
+
 import React, { useState, useEffect } from 'react';
 import { View, Text, TextInput, Pressable, Alert } from 'react-native';
 import { Link, router } from 'expo-router';

@@ -1,4 +1,4 @@
-// app.config.js
+
 module.exports = {
   name: 'TaskManagerApp',
   slug: 'task-manager-app',

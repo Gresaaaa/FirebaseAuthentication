@@ -1,4 +1,4 @@
-// app/_layout.js
+
 import { Stack } from 'expo-router';
 import { AuthProvider } from '../hooks/useAuth';
 import { StatusBar } from 'expo-status-bar';

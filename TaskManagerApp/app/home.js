@@ -1,4 +1,4 @@
-// app/home.js
+
 import React from 'react';
 import { View, Text, Pressable, Alert } from 'react-native';
 import { useAuth } from '../hooks/useAuth';

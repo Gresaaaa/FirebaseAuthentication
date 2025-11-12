@@ -1,4 +1,4 @@
-// app/(components)/GoogleButton.js
+
 import React from 'react';
 import { Pressable, Text, Platform } from 'react-native';
 import { auth } from '../../lib/firebase';
